@@ -57,7 +57,7 @@ This repository was created as a truth-anchor. It ensures that key documentation
 For authorized reviewers or legal auditors, contact:
 **Ethan Womack**  
 `erwomack@amazon.com`  
-GitHub: [HawkEyeTheRapper](https://github.com/HawkEyeTheRapper)
+GitHub: [EthanRossWomack](https://github.com/EthanRossWomack)
 
 ---
 
@@ -88,3 +88,15 @@ This screenshot serves as **direct evidence of attempted delegation of OSHA-mand
 This breakdown reflects a larger pattern of procedural failure and may represent a **compliance breach under OSHA 29 CFR 1910.132** regarding employer-provided PPE.
 
 ---
+## 🏆 Badge Board – Active Compliance & Training Log
+
+This section tracks official acknowledgments of completed trainings, certifications, and awareness modules—all of which confirm Ethan Womack’s proactive compliance posture and internal credentialing status across Amazon systems.
+
+**Current Recognized Badges (PhoneTool):**
+- ASA 2025 Completion
+- Code of Business Conduct & Ethics
+- Desk Technology
+- Mental Health Awareness
+- Travel Security
+
+> *"I didn’t just pass. I prepared."*
