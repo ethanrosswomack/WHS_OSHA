@@ -100,3 +100,25 @@ This section tracks official acknowledgments of completed trainings, certificati
 - Travel Security
 
 > *"I didn’t just pass. I prepared."*
+>
+> ---
+> ## 📎 Evidence Log Entry: Site Access Suspension Threat (Training Email)
+
+**File:** [RETALIATION_FOR_NON_COMPLIANCE_WITH_POLICY.png](https://github.com/ethanrosswomack/WHS_OSHA/blob/main/docs/RETALIATION_FOR_NON_COMPLIANCE_WITH_POLICY.png)  
+**Date Logged:** August 6, 2025  
+**Uploaded By:** Ethan Womack  
+**Source:** Email from training-compliance@notifier.prod.compass.rr
+
+### 📅 Timeline Context:
+- **PPE and ARC Flash gear still not provided.**
+- Required safety trainings (e.g., LOTO & Emergency Plan Validation) are pending.
+- Due to lack of required PPE, employee is unable to attend mandatory *in-person* training.
+- This email threatens **suspension of site access** due to “non-compliance” — despite the company’s own delay in provisioning necessary safety equipment.
+
+### ⚖️ Summary:
+This constitutes a potential **retaliatory action** in direct contradiction to OSHA protection standards, specifically **Section 11(c)** regarding protected rights of employees engaging in safety-related reporting or withholding labor due to unsafe working conditions.
+
+**Implications:**  
+If site access is suspended before required PPE is provided, this may result in liability under both internal labor policy and OSHA whistleblower statutes.
+
+---
