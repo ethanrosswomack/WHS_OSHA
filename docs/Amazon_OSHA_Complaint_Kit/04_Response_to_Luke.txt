@@ -1,0 +1,12 @@
+Hey Luke,
+
+Just a heads-up—I’ve taken time to look deeper into this PPE situation and realized it’s not just a personal frustration—it’s a legal and safety issue. 
+
+The current structure—forcing employees to purchase flame-resistant gear through a company-preferred vendor (Zappos), only partially subsidizing the cost, and providing no on-site support for laundering or storage—runs contrary to OSHA standards under 29 CFR 1910.132.
+
+Rather than continuing to troubleshoot this through Slack, I’ve formally escalated the matter. I’ve submitted a complaint to OSHA, and I’m requesting both whistleblower protection and a full audit of our site’s compliance.
+
+Just wanted to keep you in the loop. Nothing personal—I just believe this one’s beyond our pay grades.
+
+Thanks,  
+[Your Name]
