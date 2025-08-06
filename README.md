@@ -66,3 +66,25 @@ GitHub: [HawkEyeTheRapper](https://github.com/HawkEyeTheRapper)
 > *“This isn’t retaliation documentation.  
 > This is a mirror held up to a system that must remember who it serves.”*
 # WHS_OSHA
+
+
+## 📎 Evidence Log Entry: ARC Flash PPE Responsibility Shift (Slack Thread)
+
+**File:** [ARC_FLASH_PPE_RESPONSIBILITY_SHIFT_SLACK_08062025.png](https://github.com/ethanrosswomack/WHS_OSHA/blob/main/docs/ARC_FLASH_PPE_RESPONSIBILITY_SHIFT_SLACK_08062025.png)  
+**Date Logged:** August 6, 2025  
+**Uploaded By:** Ethan Womack  
+**Source:** Internal Slack thread with Jon Templeton and reference to Luke Seely
+
+### 📅 Timeline Context:
+- **August 1, 2025:** Ethan receives verbal assurance from Luke Seely that PPE order submission was handled internally. No further action required.
+- **August 6, 2025 @ 8:36 AM:** Jon Templeton sends Slack message questioning PPE status and explicitly instructs Ethan to personally verify and complete ordering of all ARC Flash clothing via Zappos.
+- **Contradiction:** Jon’s message directly contradicts the verbal directive given by Luke and shifts legal responsibility for PPE provision/maintenance back onto the employee.
+- **OSHA Call:** This message was received *just prior* to Ethan’s scheduled call with Maria Colon (OSHA), potentially exposing the employer’s internal lack of compliance coordination in real time.
+
+### ⚖️ Summary:
+This screenshot serves as **direct evidence of attempted delegation of OSHA-mandated employer responsibilities** to the employee, despite previous confirmation that the process was handled by management. It also demonstrates systemic miscommunication and negligence in following through with ARC Flash safety protocols.
+
+**Implications:**  
+This breakdown reflects a larger pattern of procedural failure and may represent a **compliance breach under OSHA 29 CFR 1910.132** regarding employer-provided PPE.
+
+---
